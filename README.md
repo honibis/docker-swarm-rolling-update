@@ -1,4 +1,5 @@
 # docker-swarm-rolling-update
+If docker service update is not working for you, this is what i came up with
 A simple yet effective sh script to process rolling updates for a docker swarm service
 
 # Define array of server IP addresses
